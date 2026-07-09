@@ -1,1 +1,7 @@
-
+{
+  "name": "nodemailr",
+  "version": "4.6.0",
+  "description": "Harmless zoo.bat typosquatting training package. This is not nodemailer.",
+  "private": true,
+  "main": "index.js"
+}
